@@ -22,7 +22,7 @@ body{
     flex-wrap: wrap;
     flex-direction: column;
     margin:100px auto;
-    padding:50px 60px;
+    padding:50px 20px;
     justify-content: space-around;
     border-radius: 3px;
     color:white;
